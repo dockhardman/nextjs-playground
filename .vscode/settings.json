@@ -8,5 +8,12 @@
         "editor.formatOnSave": true,
         "editor.tabSize": 2,
         "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2,
+        "editor.suggest.insertMode": "replace",
+        "cSpell.fixSpellingWithRenameProvider": false,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     }
 }
